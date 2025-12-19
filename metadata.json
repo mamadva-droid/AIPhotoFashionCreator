@@ -1,5 +1,5 @@
 {
-  "name": "AI Photo Fashion Creator V1",
+  "name": "AI Photo Content Creator v1.0",
   "description": "An application for generating photo content using AI. Users can select a generation model, choose photo styles, and specify generation parameters to create unique images.",
   "requestFramePermissions": []
 }

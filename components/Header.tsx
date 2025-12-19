@@ -22,10 +22,10 @@ const Header: React.FC<HeaderProps> = ({ language, setLanguage, onOpenHelp }) =>
                 <div className="flex items-center gap-4">
                     <CameraIcon className="text-indigo-400" />
                     <h1 className="text-2xl font-bold text-white tracking-wider hidden sm:block">
-                        AI Photo Content Creator
+                        AI Photo Content Creator v1.0
                     </h1>
                     <h1 className="text-xl font-bold text-white tracking-wider block sm:hidden">
-                        AI Creator
+                        AI Creator v1.0
                     </h1>
                 </div>
                 
